@@ -18,3 +18,5 @@ catch (IOException err)
 } // Fin main()
 } // Fin classe
 //kkroejtpoejtopjteopjyop
+
+// jospin t es trop moche
